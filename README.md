@@ -11,6 +11,3 @@ Dashboard interactive to analyze the waiter with the highest daily sales and com
 - highest daily sales
 - compare betwen waiters
 - Daily tendences
-
-## 🖼️ Preview
-(images/dashboard.png)

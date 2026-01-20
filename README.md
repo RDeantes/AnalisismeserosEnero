@@ -1,19 +1,16 @@
  📊 correlation between waiters and sales Dashboard (Tableau)
 
-## 🔍 Descripción
+## 🔍 Description
 Dashboard interactive to analyze the waiter with the highest daily sales and compare them with each other.
 
-## 🧰 Herramientas
+## 🧰 Tool
 - Tableau Desktop
 - Dataset: VentasEnero2026
 
-## 📈 Qué se analiza
+## 📈 What is it about?
 - highest daily sales
 - compare betwen waiters
 - Daily tendences
 
-## 🖼️ Vista previa
+## 🖼️ Preview
 (images/dashboard.png)
-
-## 📂 Archivo
-El archivo `.twbx` se puede abrir con Tableau Desktop.
